@@ -1,0 +1,8 @@
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\bin\Debug\MultilevelInherit.exe.config
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\bin\Debug\MultilevelInherit.exe
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\bin\Debug\MultilevelInherit.pdb
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.csproj.AssemblyReference.cache
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.csproj.SuggestedBindingRedirects.cache
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.csproj.CoreCompileInputs.cache
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.exe
+C:\Users\F-NagareD\source\repos\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.pdb

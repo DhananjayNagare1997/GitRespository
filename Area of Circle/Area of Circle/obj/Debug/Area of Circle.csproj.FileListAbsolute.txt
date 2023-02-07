@@ -1,0 +1,8 @@
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\bin\Debug\Area of Circle.exe.config
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\bin\Debug\Area of Circle.exe
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\bin\Debug\Area of Circle.pdb
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\obj\Debug\Area of Circle.csproj.AssemblyReference.cache
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\obj\Debug\Area of Circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\obj\Debug\Area of Circle.csproj.CoreCompileInputs.cache
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\obj\Debug\Area of Circle.exe
+C:\Users\F-NagareD\source\repos\Area of Circle\Area of Circle\obj\Debug\Area of Circle.pdb
