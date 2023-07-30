@@ -10,10 +10,6 @@ namespace ConsoleApp11
     {
         static void Main(string[] args)
         {
-            /* int i;
-             for (i = 0; i <= 10; i++)
-                 Console.WriteLine("Hello");
-             Console.ReadKey(); */
             int i;
             for (i = 1; i <= 4; i++)
             {
