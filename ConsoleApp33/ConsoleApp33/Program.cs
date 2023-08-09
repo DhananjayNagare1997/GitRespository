@@ -16,13 +16,13 @@ namespace ConsoleApp33
             sum = sum + x[i];
             Console.WriteLine("Sum is: " + sum);
         }
-    static void Show(int[] x)
-    {
+        static void Show(int[] x)
+        {
             int i, sum = 0;
-        for (i = 0; i < 10; i++)
-            Console.WriteLine(x[i] + " ");
-    }
-    static void Main(string[] args)
+            for (i = 0; i < 10; i++)
+               Console.WriteLine(x[i] + " ");
+         }
+        static void Main(string[] args)
         {
         int[] a = new int[10];
         int i;
