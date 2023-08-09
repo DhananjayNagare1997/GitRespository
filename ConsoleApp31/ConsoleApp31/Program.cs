@@ -10,19 +10,18 @@ namespace ConsoleApp31
     {
         string Name, Address;
         int bal;
-        public Bank() //
+        public Bank() //Methode 1
         {
             Console.WriteLine("Welcome Fujitsu bank, Kindly fill Address: ");
             Console.WriteLine("Enter name of Costemer: ");
-            // Name = Convert.ToInt32Console.ReadLine());
             Name = Convert.ToString(Console.ReadLine());
             Console.WriteLine("Enter Address of Costomer: ");
             Address = Convert.ToString(Console.ReadLine());
 
-            Console.WriteLine("Enter Opening Balance: ");
+            Console.WriteLine("Deposite the Opening Balance: ");
             bal = Convert.ToInt32(Console.ReadLine());
         }
-        public void Deposite()
+        public void Deposite() //Methode 2
         {
             int amt;
             Console.WriteLine("Enter Amount to Deposite: ");
@@ -30,7 +29,7 @@ namespace ConsoleApp31
             bal = bal + amt;
             Console.WriteLine("Dear" + Name + "! After Deposite your Account balance is: " + bal);
         }
-        public void Withdrow()
+        public void Withdrow() //Methode 3
         {
             int amt;
             Console.WriteLine("Enter Amount to Withdrow: ");
