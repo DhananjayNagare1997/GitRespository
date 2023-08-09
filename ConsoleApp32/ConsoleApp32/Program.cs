@@ -5,13 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp32
-{
-   // internal class Program
-    //{
-       // static void Main(string[] args)
-      //  {
-             class Bank
-        {
+{ 
+   class Bank
+           {
             string Name, Address;
             int bal;
             public Bank() // Constructor
@@ -22,7 +18,6 @@ namespace ConsoleApp32
                 Name = Convert.ToString(Console.ReadLine());
                 Console.WriteLine("Enter Address of Coustomer: ");
                 Address = Convert.ToString(Console.ReadLine());
-
                 Console.WriteLine("Enter Opening Balance: ");
                 bal = Convert.ToInt32(Console.ReadLine());
             }
@@ -34,35 +29,30 @@ namespace ConsoleApp32
                 bal = bal + amt;
                 Console.WriteLine("Dear" + Name + "! After Deposite your Account balance is: " + bal);
             }
-
             public void Withdrow()
             {
                 int amt;
                 Console.WriteLine("Enter Amount to Withdrow: ");
                 amt = Convert.ToInt32(Console.ReadLine());
-                // bal = bal - amt;
-                //Console.WriteLine("Dear" + Name + "! After Deposite your Account balance is: " + bal);
                 if (amt > bal)
                 {
                     Console.WriteLine("Insufficient Balance, So Cant Proceed: ");
                 }
                 else
                 {
-                    bal = bal - amt;
+                    bal -= amt;
                     Console.WriteLine("Dear" + Name + "! After Deposite your Account balance is: " + bal);
                 }
             }
         }
-
         internal class Program
         {
             static void Main(string[] args)
             {
                 Bank B1 = new Bank(); //Object creation,Bank B1 => refrence variable,
-               // B1.Deposite();
+                // B1.Deposite();
                 //B1.Withdrow();
                 int ch, choise;
-
                 do
                 {
                    // Console.WriteLine("0. Open a Account: ");
